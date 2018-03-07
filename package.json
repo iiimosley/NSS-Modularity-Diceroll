@@ -1,0 +1,19 @@
+{
+  "name": "diceRoll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "diceroll": "bin/diceroll" 
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./lib/cli.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

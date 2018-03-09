@@ -47,6 +47,12 @@ or
 diceroll --flip
 ```
 
+#### Rules
+To view all the rules and directions for `diceroll`, run the following command
+```
+diceroll --rules
+```
+
 ### Installing
 To install the `diceroll` command, run the following commands:
 ```

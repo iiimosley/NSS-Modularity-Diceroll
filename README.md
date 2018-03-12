@@ -15,8 +15,8 @@ dice-roll/
         dice.js
         math.js
         parse-args.js
-README.md
-package.json
+    README.md
+    package.json
 ```
 
 Create a command that performs a dice roll based on 2 arguments (as integers):
